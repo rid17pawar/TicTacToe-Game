@@ -1,6 +1,6 @@
 # TicTacToe-Game
 
-#### This is a Tic Tac Toe Game App developed in Android Studio using Kotlin language. It accepts two players' names and then players can enjoy the game. 
+#### This is a Tic Tac Toe Game App developed in Android Studio using Kotlin language. It accepts two player's names and then players can enjoy the game. 
 
 # Screenshots:
 
